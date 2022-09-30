@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jiayupu-portfolio/static/css/main.fab06f33.css",
+    "main.js": "/jiayupu-portfolio/static/js/main.df2faf58.js",
+    "static/media/me.jpg": "/jiayupu-portfolio/static/media/me.e87bf69d433538892525.jpg",
+    "static/media/portfolio1.jpg": "/jiayupu-portfolio/static/media/portfolio1.d36577cffd72b5993be0.jpg",
+    "static/media/portfolio2.jpg": "/jiayupu-portfolio/static/media/portfolio2.f3f1443173fe59903a64.jpg",
+    "static/media/me-about.JPG": "/jiayupu-portfolio/static/media/me-about.c1bee50720f336418658.JPG",
+    "static/media/avatar1.jpg": "/jiayupu-portfolio/static/media/avatar1.f6bd57996f1cb033edbe.jpg",
+    "static/media/avatar2.jpg": "/jiayupu-portfolio/static/media/avatar2.491949ebfb834939674f.jpg",
+    "static/media/portfolio3.jpg": "/jiayupu-portfolio/static/media/portfolio3.ffe0d80ba8e0f041d5dc.jpg",
+    "static/media/avatar3.jpg": "/jiayupu-portfolio/static/media/avatar3.dc821c2f90523338e345.jpg",
+    "static/media/portfolio5.png": "/jiayupu-portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio4.jpg": "/jiayupu-portfolio/static/media/portfolio4.622aabc2341464d882d8.jpg",
+    "static/media/resume.pdf": "/jiayupu-portfolio/static/media/resume.021a605843faac669c1e.pdf",
+    "static/media/portfolio6.jpg": "/jiayupu-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "index.html": "/jiayupu-portfolio/index.html",
+    "main.fab06f33.css.map": "/jiayupu-portfolio/static/css/main.fab06f33.css.map",
+    "main.df2faf58.js.map": "/jiayupu-portfolio/static/js/main.df2faf58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab06f33.css",
+    "static/js/main.df2faf58.js"
+  ]
+}
