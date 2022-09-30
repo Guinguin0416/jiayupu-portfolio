@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jiayupu-portfolio/static/css/main.fab06f33.css",
-    "main.js": "/jiayupu-portfolio/static/js/main.df2faf58.js",
+    "main.css": "/jiayupu-portfolio/static/css/main.b5fbf81e.css",
+    "main.js": "/jiayupu-portfolio/static/js/main.fd011b8e.js",
     "static/media/me.jpg": "/jiayupu-portfolio/static/media/me.e87bf69d433538892525.jpg",
     "static/media/portfolio1.jpg": "/jiayupu-portfolio/static/media/portfolio1.d36577cffd72b5993be0.jpg",
     "static/media/portfolio2.jpg": "/jiayupu-portfolio/static/media/portfolio2.f3f1443173fe59903a64.jpg",
@@ -15,11 +15,11 @@
     "static/media/resume.pdf": "/jiayupu-portfolio/static/media/resume.021a605843faac669c1e.pdf",
     "static/media/portfolio6.jpg": "/jiayupu-portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
     "index.html": "/jiayupu-portfolio/index.html",
-    "main.fab06f33.css.map": "/jiayupu-portfolio/static/css/main.fab06f33.css.map",
-    "main.df2faf58.js.map": "/jiayupu-portfolio/static/js/main.df2faf58.js.map"
+    "main.b5fbf81e.css.map": "/jiayupu-portfolio/static/css/main.b5fbf81e.css.map",
+    "main.fd011b8e.js.map": "/jiayupu-portfolio/static/js/main.fd011b8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.fab06f33.css",
-    "static/js/main.df2faf58.js"
+    "static/css/main.b5fbf81e.css",
+    "static/js/main.fd011b8e.js"
   ]
 }
